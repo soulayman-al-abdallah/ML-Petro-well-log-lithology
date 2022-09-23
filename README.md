@@ -44,4 +44,4 @@ The data was provided, and the project was inspired by this [repository](https:/
 
 For any further information about this repository's work, do not hesitate to reach me through LinkedIn:
 
-[Eng. Soulayman Al-Abdallah](linkedin.com/in/soulayman-al-abdallah)
+[Eng. Soulayman Al-Abdallah](http://linkedin.com/in/soulayman-al-abdallah)
