@@ -40,7 +40,7 @@ You can run the app by clicking on the colab notebooks, while replacing the "git
 
 ## Contact information and Disclaimer
 
-The data was provided, and the project was inspired by this [repository](https://github.com/rmozart/North-Sea-Electrofacies-Clustering#contact).
+The data was provided, and the project was inspired by this [repository](https://github.com/rmozart/North-Sea-Electrofacies-Clustering).
 
 For any further information about this repository's work, do not hesitate to reach me through LinkedIn:
 
