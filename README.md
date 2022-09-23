@@ -15,7 +15,7 @@
 ## Dataset
 
 Used Data files from [here](https://github.com/rmozart/North-Sea-Electrofacies-Clustering/tree/master/Data):
-- **GEOLINK_Lithology and wells NORTH SEA**: A directory containing LAS files containing about 3147162 data sample from different wells at different depths, described by 10 to 25 features.
+- **GEOLINK_Lithology and wells NORTH SEA**: A directory containing LAS files containing about 3147162 data samples from different wells at different depths, described by 10 to 25 features.
 - **Lithology code data.xlsx**: An excel file matching each geological lithology to a numerical value.
 
 <img width="673" alt="Screen Shot 2022-09-23 at 3 07 20 PM" src="https://user-images.githubusercontent.com/75330691/191962482-f1308789-613e-4094-8750-b0ffc963a6ac.png">
