@@ -7,8 +7,7 @@
 - [Model Training](https://github.com/soulayman-al-abdallah/ML-Petro-well-log-lithology#training)
 - [Running the app](https://github.com/soulayman-al-abdallah/ML-Petro-well-log-lithology#running-the-app)
 - [Contact information](https://github.com/soulayman-al-abdallah/ML-Petro-well-log-lithology#contact-information)
-
-
+- [Evaluation Graphics](https://github.com/soulayman-al-abdallah/ML-Petro-well-log-lithology#evaluation-graphics)
 
 
 -----
@@ -31,6 +30,21 @@ For different purposes, we trained multiple models in the notebooks as we can se
 - 2- **Regression modeling of NPHI log values**: Feature Selection + Model Selection + RandomForest regressor design, fitting, testing and prediction
 - 3- **Lithology classification**: Feature Engineering + Data preprocessing + Catboost hyperparameter tuning + model design, fitting, testing and prediction
 - 4- **Lithology classification**: Feature Engineering + Data preprocessing + Pytorch model design, fitting, testing and prediction
+
+## Evaluation graphics
+
+Catboost Feature Importance
+
+<img width="437" alt="Screenshot 2023-01-30 at 1 59 21 PM" src="https://user-images.githubusercontent.com/75330691/215471314-4df38d98-8566-4228-9065-219921906af7.png">
+
+Catboost Confusion Matrix
+
+<img width="437" alt="Screenshot 2023-01-30 at 1 59 53 PM" src="https://user-images.githubusercontent.com/75330691/215471456-b57c14e7-1ae3-455c-bf75-3da5275f4aa5.png">
+
+Tabnet accuracy and loss curves
+
+<img width="383" alt="Screenshot 2023-01-30 at 2 00 10 PM" src="https://user-images.githubusercontent.com/75330691/215471857-8c09f3b3-fbc4-4330-841a-ffaed47b60b1.png">
+
 
 
 ## Running the app
